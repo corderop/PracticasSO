@@ -3,3 +3,7 @@ Fedora
 Modulo1/ArchivosM1/
 # IGNORAR ARCHIVOS DE PRUEBA
 ArchivosEjemplo/
+*.txt
+prueba
+#IGNORAR EJECUTABLES
+*_exe
